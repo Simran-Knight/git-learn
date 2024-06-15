@@ -1,0 +1,13 @@
+ 
+git init
+git config --global user.email "email id"
+git config --global user.name "name"
+git add
+git commit -m "message "
+git reset --hard " hash value"
+
+
+
+branching git command
+
+
